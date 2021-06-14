@@ -1,0 +1,8 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+export const LOGOUT = 'LOGOUT'
+export const SHOP_CREATE = 'SHOP_CREATE'
+export const SHOP_UPDATE = 'SHOP_UPDATE'
+export const SHOP_DELETE = 'SHOP_DELETE'
+export const SHOP_ALL_VIEW = 'SHOP_ALL_VIEW'
+export const SHOP_VIEW_BY_ID = 'SHOP_VIEW_BY_ID'
